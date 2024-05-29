@@ -7,5 +7,6 @@ Supervised Finetuning open-source llms with custom Datasets
 - dataload.py에서 데이터셋 생성 양식이 적절하지 않습니다. 추후 수정하겠습니다.
 
 ## Reference
-위 작업은 아래의 AIHUB 강의를 참고하였습니다.
-https://colab.research.google.com/github/choijhyeok/easy_finetuner/blob/main/개인_데이터셋을_통한_llama2_fine_tune.ipynb
+위 작업은 아래의 AI Factory(인공지능팩토리) 강의를 참고하였습니다.
+- 코드: https://colab.research.google.com/github/choijhyeok/easy_finetuner/blob/main/개인_데이터셋을_통한_llama2_fine_tune.ipynb
+- 영상: https://www.youtube.com/live/4I9AUFuBlFs?feature=shared
